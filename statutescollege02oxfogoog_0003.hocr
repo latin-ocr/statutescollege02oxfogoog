@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./statutescollege02oxfogoog_0003.png"; bbox 0 0 3000 4700; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 0 1366 2996 4692">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 0 1366 2996 4692">
+     <span class='ocr_line' id='line_1_1' title="bbox 0 1366 2996 4692; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 0 1366 2996 4692; x_wconf 95' lang='lat' dir='ltr'>     </span> <span class='ocrx_word' id='word_1_2' title='bbox 2198 2349 2996 3116; x_wconf 95' lang='lat' dir='ltr'>  </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 901 2387 2282 2463">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 901 2360 2370 2463">
+     <span class='ocr_line' id='line_1_2' title="bbox 901 2387 2282 2463; baseline 0.004 -12"><span class='ocrx_word' id='word_1_3' title='bbox 901 2387 1185 2463; x_wconf 74' lang='lat' dir='ltr'>PHOF.</span> <span class='ocrx_word' id='word_1_4' title='bbox 1265 2387 1622 2455; x_wconf 53' lang='lat' dir='ltr'>„EMJUEL</span> <span class='ocrx_word' id='word_1_5' title='bbox 1682 2387 1782 2459; x_wconf 82' lang='grc' dir='ltr'>Ε.</span> <span class='ocrx_word' id='word_1_6' title='bbox 1866 2387 2282 2459; x_wconf 64' lang='grc' dir='ltr'>ΜῡΗῑΞῡΝ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 625 2900 2198 2988">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 625 2876 2198 3011">
+     <span class='ocr_line' id='line_1_3' title="bbox 625 2900 2198 2988; baseline 0.002 -3"><span class='ocrx_word' id='word_1_7' title='bbox 625 2900 2198 2988; x_wconf 22' lang='grc' dir='ltr'>’Ἓξ-1</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 2998 1355 3000 3645">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 2998 1355 3000 3645">
+     <span class='ocr_line' id='line_1_4' title="bbox 2998 1355 3000 3645; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 2998 1355 3000 3645; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
